@@ -1,0 +1,47 @@
+{
+  "makers": [
+    {
+      "id": "eu-mwb5ukf7-vx3li",
+      "name": "Extrude & Unwind, LLC",
+      "location": "Troutman",
+      "area": "North Carolina",
+      "short": "Super Cool filament shop",
+      "full": "Super-duper cool filament shop",
+      "services": [
+        "Buy printed items",
+        "Print my file",
+        "Design a file for me",
+        "Browse ready-made files"
+      ],
+      "specialties": [
+        "Art and sculpture",
+        "Miniatures and models",
+        "Cosplay and props",
+        "Home and decor",
+        "Other"
+      ],
+      "materials": [
+        "PLA",
+        "PETG",
+        "ABS or ASA"
+      ],
+      "matDetails": "",
+      "work": [
+        "local service",
+        "ships items",
+        "remote design"
+      ],
+      "logo": "https://raw.githubusercontent.com/pompeh21/maker-directory/main/images/eu-mwb5ukf7-vx3li/logo.png",
+      "cover": "https://raw.githubusercontent.com/pompeh21/maker-directory/main/images/eu-mwb5ukf7-vx3li/photo-1.png",
+      "photos": [
+        "https://raw.githubusercontent.com/pompeh21/maker-directory/main/images/eu-mwb5ukf7-vx3li/photo-1.png",
+        "https://raw.githubusercontent.com/pompeh21/maker-directory/main/images/eu-mwb5ukf7-vx3li/photo-2.png"
+      ],
+      "email": "anthony@extrudeandunwind.com",
+      "phone": "12035008166",
+      "contact": "Anthony Pompano",
+      "website": "http://www.extrudeandunwind.com"
+    }
+  ],
+  "updated": "2026-11-11T03:53:26.837Z"
+}
